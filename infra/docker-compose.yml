@@ -8,7 +8,7 @@ services:
       context: nginx/
       dockerfile: Dockerfile
     env_file:
-      - .env
+      - .env.example
     ports:
       - 7000:8080
 
@@ -18,7 +18,7 @@ services:
     hostname: autodis-psql
     restart: always
     env_file:
-      - .env
+      - .env.example
     ports:
       - 5432:5432
 
@@ -31,7 +31,7 @@ services:
       context: ../
       dockerfile: src/client-side/AutoDis/Dockerfile
     env_file:
-      - .env
+      - .env.example
     ports:
       - 8080:8080
     
@@ -44,7 +44,7 @@ services:
       context: ../
       dockerfile: src/client-side/AutoDisCms/Dockerfile
     env_file:
-      - .env
+      - .env.example
     ports:
       - 8282:8080
 
@@ -57,7 +57,7 @@ services:
       context: ../
       dockerfile: src/server-side/Presenters/AutoDis.WebApi/Dockerfile
     env_file:
-      - .env
+      - .env.example
     ports:
       - 6001:8080
 
@@ -65,6 +65,8 @@ services:
     image: redis:8-alpine
     container_name: autodis-redis
     restart: unless-stopped
+    env_file:
+      - .env.example
     ports:
       - "6379:6379"
     volumes:
