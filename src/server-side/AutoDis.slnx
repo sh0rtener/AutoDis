@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/AutoDis.Domain/AutoDis.Domain.csproj" />
+    <Project Path="Core/AutoDis.UseCases/AutoDis.UseCases.csproj" />
+  </Folder>
+  <Folder Name="/Infra/">
+    <Project Path="Infra/AutoDis.Caching/AutoDis.Caching.csproj" />
+    <Project Path="Infra/AutoDis.Persistense/AutoDis.Persistense.csproj" />
+  </Folder>
+  <Folder Name="/Presenters/">
+    <Project Path="Presenters/AutoDis.WebApi/AutoDis.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/AutoDis.Tests/AutoDis.Tests.csproj" />
+  </Folder>
+</Solution>
