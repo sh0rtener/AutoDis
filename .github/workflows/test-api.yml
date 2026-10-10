@@ -1,4 +1,4 @@
-name: Restore, Build and Test Clients service
+name: Restore, Build and Test Api service
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Build and Run Garaj Web (Angular)
+name: Build and Run AutoDis (Angular)
 
 on:
   push:
