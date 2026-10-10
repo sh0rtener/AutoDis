@@ -20,4 +20,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\AutoDis.Domain\AutoDis.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -537,3 +537,5 @@ temp/
 .server/
 
 */.env
+
+infra/redis/data/
