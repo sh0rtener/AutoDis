@@ -5,10 +5,12 @@ on:
     branches: ["main"]
     paths:
       - "src/client-side/AutoDisCms/**"
+      - "src/**"
   pull_request:
     branches: ["main"]
     paths:
       - "src/client-side/AutoDisCms/**"
+      - "src/**"
 
 jobs:
   build:

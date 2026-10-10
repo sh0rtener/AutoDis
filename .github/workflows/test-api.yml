@@ -5,10 +5,12 @@ on:
     branches: ["main"]
     paths:
       - "src/server-side/**"
+      - "src/**"
   pull_request:
     branches: ["main"]
     paths:
       - "src/server-side/**"
+      - "src/**"
 
 jobs:
   build:
