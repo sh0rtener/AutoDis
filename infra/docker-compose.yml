@@ -1,0 +1,73 @@
+services:
+  gateway:
+    image: gateway-ng
+    hostname: gateway-ng
+    container_name: gateway
+    restart: always
+    build:
+      context: nginx/
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    ports:
+      - 7000:8080
+
+  autodis-psql:
+    image: postgres:17
+    container_name: autodis-psql
+    hostname: autodis-psql
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - 5432:5432
+
+  autodis-web:
+    image: autodis-web
+    hostname: autodis-web
+    container_name: autodis-web
+    restart: always
+    build:
+      context: ../
+      dockerfile: src/client-side/AutoDis/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - 8080:8080
+    
+  autodis-cms:
+    image: autodis-cms
+    hostname: autodis-cms
+    container_name: autodis-cms
+    restart: always
+    build:
+      context: ../
+      dockerfile: src/client-side/AutoDisCms/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - 8282:8080
+
+  autodis-webapi1:
+    image: autodis-webapi1
+    hostname: autodis-webapi1
+    container_name: autodis-webapi1
+    restart: always
+    build:
+      context: ../
+      dockerfile: src/server-side/Presenters/AutoDis.WebApi/Dockerfile
+    env_file:
+      - .env
+    ports:
+      - 6001:8080
+
+  redis:
+    image: redis:8-alpine
+    container_name: autodis-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./redis/data:/data
+    command: redis-server --appendonly yes
+    

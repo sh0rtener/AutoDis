@@ -1,0 +1,45 @@
+name: Build and Run Garaj Web (Angular)
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "src/client-side/AutoDis/**"
+  pull_request:
+    branches: ["main"]
+    paths:
+      - "src/client-side/AutoDis/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: src/client-side/AutoDis
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: src/client-side/AutoDis/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run unit tests
+        run: npm run test -- --watch=false --browsers=ChromeHeadless
+
+      - name: Build production bundle
+        run: npm run build -- --configuration production
+
+      - name: Smoke test — run built app
+        run: |
+          npx http-server dist/AutoDis/browser -p 4200 &
+          SERVER_PID=$!
+          sleep 5
+          curl --fail http://localhost:4200 || (kill $SERVER_PID && exit 1)
+          kill $SERVER_PID
