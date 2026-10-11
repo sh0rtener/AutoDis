@@ -5,7 +5,6 @@ public sealed class Car : Entity<int>
     public string Model { get; private set; }
     public CarManufacturer Manufacturer { get; private set; }
     public int Year { get; private set; }
-    public VinCode Vin { get; private set; }
     public CarColor Color { get; private set; }
 
     public CarBodyType BodyType { get; private set; }
@@ -22,7 +21,6 @@ public sealed class Car : Entity<int>
         string model,
         CarManufacturer manufacturer,
         int year,
-        VinCode vin,
         CarColor color,
         CarBodyType bodyType,
         CarFuelType fuelType,
@@ -49,7 +47,6 @@ public sealed class Car : Entity<int>
         Model = model.Trim();
         Manufacturer = manufacturer ?? throw new ArgumentNullException(nameof(manufacturer));
         Year = year;
-        Vin = vin ?? throw new ArgumentNullException(nameof(vin));
         Color = color;
         BodyType = bodyType;
         FuelType = fuelType;

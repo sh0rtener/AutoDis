@@ -8,7 +8,6 @@ public class CarTests
         string model = "Camry",
         CarManufacturer? manufacturer = null,
         int year = 2020,
-        VinCode? vin = null,
         Power? power = null,
         int doors = 4,
         int seats = 5,
@@ -18,7 +17,6 @@ public class CarTests
             model,
             manufacturer ?? CarFactory.CreateManufacturer(),
             year,
-            vin ?? new VinCode(CarFactory.ValidVin),
             CarColor.Red,
             CarBodyType.Suv,
             CarFuelType.Diesel,
@@ -35,16 +33,14 @@ public class CarTests
     public void Ctor_ValidArguments_SetsAllProperties()
     {
         var manufacturer = CarFactory.CreateManufacturer("Honda");
-        var vin = new VinCode(CarFactory.ValidVin);
         var power = new Power(200);
         var mileage = new Mileage(1234.5f);
 
-        var car = Create("Civic", manufacturer, 2021, vin, power, 4, 5, mileage);
+        var car = Create("Civic", manufacturer, 2021, power, 4, 5, mileage);
 
         Assert.Equal("Civic", car.Model);
         Assert.Same(manufacturer, car.Manufacturer);
         Assert.Equal(2021, car.Year);
-        Assert.Same(vin, car.Vin);
         Assert.Equal(CarColor.Red, car.Color);
         Assert.Equal(CarBodyType.Suv, car.BodyType);
         Assert.Equal(CarFuelType.Diesel, car.FuelType);
@@ -140,7 +136,7 @@ public class CarTests
     {
         var ex = Assert.Throws<ArgumentNullException>(() =>
             new Car(
-                "Camry", null!, 2020, new VinCode(CarFactory.ValidVin), CarColor.Black,
+                "Camry", null!, 2020, CarColor.Black,
                 CarBodyType.Sedan, CarFuelType.Petrol, CarTransmissionType.Automatic,
                 CarDriveTrain.Fwd, new Power(100), 4, 5, new Mileage(0f)));
 
@@ -148,23 +144,11 @@ public class CarTests
     }
 
     [Fact]
-    public void Ctor_NullVin_Throws()
-    {
-        var ex = Assert.Throws<ArgumentNullException>(() =>
-            new Car(
-                "Camry", CarFactory.CreateManufacturer(), 2020, null!, CarColor.Black,
-                CarBodyType.Sedan, CarFuelType.Petrol, CarTransmissionType.Automatic,
-                CarDriveTrain.Fwd, new Power(100), 4, 5, new Mileage(0f)));
-
-        Assert.Equal("vin", ex.ParamName);
-    }
-
-    [Fact]
     public void Ctor_NullPower_Throws()
     {
         var ex = Assert.Throws<ArgumentNullException>(() =>
             new Car(
-                "Camry", CarFactory.CreateManufacturer(), 2020, new VinCode(CarFactory.ValidVin), CarColor.Black,
+                "Camry", CarFactory.CreateManufacturer(), 2020, CarColor.Black,
                 CarBodyType.Sedan, CarFuelType.Petrol, CarTransmissionType.Automatic,
                 CarDriveTrain.Fwd, null!, 4, 5, new Mileage(0f)));
 
@@ -176,7 +160,7 @@ public class CarTests
     {
         var ex = Assert.Throws<ArgumentNullException>(() =>
             new Car(
-                "Camry", CarFactory.CreateManufacturer(), 2020, new VinCode(CarFactory.ValidVin), CarColor.Black,
+                "Camry", CarFactory.CreateManufacturer(), 2020, CarColor.Black,
                 CarBodyType.Sedan, CarFuelType.Petrol, CarTransmissionType.Automatic,
                 CarDriveTrain.Fwd, new Power(100), 4, 5, null!));
 

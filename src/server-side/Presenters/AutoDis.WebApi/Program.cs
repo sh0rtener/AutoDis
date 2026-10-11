@@ -1,11 +1,20 @@
+using AutoDis.Persistense;
+using AutoDis.Persistense.EntityFramework;
+using AutoDis.UseCases;
+using AutoDis.WebApi;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwagger();
+builder.Services.AddPersistense(builder.Configuration);
+builder.Services.AddUseCases();
 
 var app = builder.Build();
 
@@ -14,6 +23,11 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    context.Database.Migrate();
 }
 
 app.UseHttpsRedirection();
