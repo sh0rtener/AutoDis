@@ -12,6 +12,20 @@ services:
     ports:
       - 7000:8080
 
+  fileserver:
+    image: nginx:alpine
+    container_name: file_server
+    ports:
+      - "7001:80"
+    build:
+      context: fileserver/
+      dockerfile: Dockerfile
+    volumes:
+      - ./fileserver/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./fileserver/files:/var/www/data
+      - ./fileserver/.htpasswd.example:/etc/nginx/.htpasswd:ro
+    restart: unless-stopped
+
   autodis-psql:
     image: postgres:17
     container_name: autodis-psql
