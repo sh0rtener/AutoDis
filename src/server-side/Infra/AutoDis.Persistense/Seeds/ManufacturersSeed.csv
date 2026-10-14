@@ -1,0 +1,293 @@
+id:Name:CountryId
+1:Holden:1
+2:БелАЗ:2
+3:БелДжи:2
+4:МАЗ:2
+5:Agrale:3
+6:CAOA Chery:3
+7:Marcopolo:3
+8:Troller:3
+9:Ariel:4
+10:Aston Martin:4
+11:Austin:4
+12:BAC:4
+13:Bentley:4
+14:Caterham:4
+15:Jaguar:4
+16:Land Rover:4
+17:Lotus:4
+18:MG:4
+19:MINI:4
+20:McLaren:4
+21:Morgan:4
+22:Noble:4
+23:Radical:4
+24:Rolls-Royce:4
+25:Rover:4
+26:TVR:4
+27:Vauxhall:4
+28:Thaco:5
+29:VinFast:5
+30:Kantanka:6
+31:Alpina:7
+32:Apollo Automobil:7
+33:Artega:7
+34:Audi:7
+35:BMW:7
+36:Barkas:7
+37:Borgward:7
+38:Brabus:7
+39:EDAG:7
+40:Gumpert:7
+41:Isdera:7
+42:Maybach:7
+43:Melkus:7
+44:Mercedes-Benz:7
+45:Opel:7
+46:Porsche:7
+47:RUF:7
+48:SEW-Eurodrive / e.GO:7
+49:Smart:7
+50:Trabant:7
+51:Volkswagen:7
+52:Wartburg:7
+53:Wiesmann:7
+54:Zenvo:8
+55:Ashok Leyland:9
+56:Bajaj:9
+57:Force Motors:9
+58:Hindustan Motors:9
+59:Mahindra:9
+60:Mahindra Reva:9
+61:Maruti Suzuki:9
+62:Premier:9
+63:Tata:9
+64:Tata Motors:9
+65:Esemka:10
+66:Pindad:10
+67:Timor:10
+68:Iran Khodro:11
+69:Saipa:11
+70:Cupra:12
+71:EBRO:12
+72:Hispano Suiza:12
+73:SEAT:12
+74:Santana:12
+75:Tauro Sport Auto:12
+76:ATS:13
+77:Abarth:13
+78:Alfa Romeo:13
+79:Autobianchi:13
+80:Bremach:13
+81:DR Automobiles:13
+82:Dallara:13
+83:De Tomaso:13
+84:Ferrari:13
+85:Fiat:13
+86:Innocenti:13
+87:Iveco:13
+88:Lamborghini:13
+89:Lancia:13
+90:Maserati:13
+91:Mazzanti:13
+92:Pagani:13
+93:Pininfarina:13
+94:Aito:14
+95:Aiways:14
+96:Avatr:14
+97:BAIC:14
+98:BAW:14
+99:BYD:14
+100:Baojun:14
+101:Bestune:14
+102:Brilliance:14
+103:Changan:14
+104:Chery:14
+105:Chery Karry:14
+106:Deepal:14
+107:Denza:14
+108:Dongfeng:14
+109:Exeed:14
+110:FAW:14
+111:Forthing:14
+112:Foton:14
+113:GAC:14
+114:Geely:14
+115:Gonow:14
+116:Great Wall:14
+117:Hanteng:14
+118:Haval:14
+119:HiPhi:14
+120:Hongqi:14
+121:Hozon (Neta):14
+122:IM Motors:14
+123:JAC:14
+124:JMC:14
+125:Jaecoo:14
+126:Jetour:14
+127:Jetta:14
+128:Jiyue:14
+129:Kaiyi:14
+130:Kandi:14
+131:Karry:14
+132:Landwind:14
+133:Leapmotor:14
+134:Li Auto:14
+135:Lifan:14
+136:Livan:14
+137:Luxeed:14
+138:Lynk & Co:14
+139:NIO:14
+140:ORA:14
+141:Omoda:14
+142:Qoros:14
+143:Roewe:14
+144:Saic Maxus:14
+145:Seres:14
+146:Soueast:14
+147:Tianjin FAW:14
+148:Voyah:14
+149:Weltmeister (WM Motor):14
+150:Wuling:14
+151:XPeng:14
+152:Yangwang:14
+153:Zeekr:14
+154:Zhonghua:14
+155:Zinoro:14
+156:Zotye:14
+157:Bufori:15
+158:Perodua:15
+159:Perusahaan Otomobil Nasional:15
+160:Proton:15
+161:Proton Edar:15
+162:Laraki:16
+163:Venturi:17
+164:Innoson:18
+165:Donkervoort:19
+166:Spyker:19
+167:W Motors:20
+168:Arrinera:21
+169:FSO:21
+170:Lublin:21
+171:Polski Fiat:21
+172:Syrena:21
+173:Aurus:22
+174:Derways:22
+175:GAZelle:22
+176:Lada:22
+177:Marussia:22
+178:Moskvich:22
+179:Sollers:22
+180:TagAZ:22
+181:Ё-мобиль:22
+182:ГАЗ:22
+183:ЗИЛ:22
+184:ЗиС:22
+185:ИЖ:22
+186:КАВЗ:22
+187:КАМАЗ:22
+188:ЛиАЗ:22
+189:Москвич:22
+190:ПАЗ:22
+191:ТагАЗ:22
+192:УАЗ:22
+193:Урал:22
+194:ARO:23
+195:Dacia:23
+196:Oltcit:23
+197:Roman:23
+198:Aptera:24
+199:Bollinger Motors:24
+200:Buick:24
+201:Cadillac:24
+202:Canoo:24
+203:Chevrolet:24
+204:Chrysler:24
+205:DeLorean:24
+206:Dodge:24
+207:Faraday Future:24
+208:Fisker:24
+209:Ford:24
+210:GMC:24
+211:Hennessey:24
+212:Hummer:24
+213:Jeep:24
+214:Karma:24
+215:Lincoln:24
+216:Lucid:24
+217:Mercury:24
+218:Oldsmobile:24
+219:Panoz:24
+220:Plymouth:24
+221:Pontiac:24
+222:RAM:24
+223:Rezvani:24
+224:Rivian:24
+225:SSC North America:24
+226:Saleen:24
+227:Saturn:24
+228:Scion:24
+229:Tesla:24
+230:Yugo:25
+231:Zastava:25
+232:IMV:26
+233:TAM:26
+234:Thai Rung:27
+235:CMC:28
+236:Foxtron:28
+237:LUXGEN:28
+238:Yulon:28
+239:Anadol:29
+240:Tofaş:29
+241:Togg:29
+242:Ravon:30
+243:ZAZ:31
+244:Богдан:31
+245:ЗАЗ:31
+246:ЗАЗ-Daewoo:31
+247:КрАЗ:31
+248:ЛуАЗ:31
+249:Aixam:32
+250:Aixam Mega:32
+251:Alpine:32
+252:Bugatti:32
+253:Citroën:32
+254:DS Automobiles:32
+255:Ligier:32
+256:Microcar:32
+257:Peugeot:32
+258:Renault:32
+259:DOK-ING:33
+260:Rimac:33
+261:Kaipan:34
+262:Praga:34
+263:Tatra:34
+264:Škoda:34
+265:Koenigsegg:35
+266:Polestar:35
+267:Saab:35
+268:Volvo:35
+269:Daewoo:36
+270:Genesis:36
+271:Hyundai:36
+272:KG Mobility:36
+273:Kia:36
+274:Renault Samsung:36
+275:SsangYong:36
+276:SsangYong / KGM:36
+277:Tata Daewoo:36
+278:Acura:37
+279:Afeela:37
+280:Daihatsu:37
+281:Datsun:37
+282:Honda:37
+283:Infiniti:37
+284:Isuzu:37
+285:Lexus:37
+286:Mazda:37
+287:Mitsubishi:37
+288:Mitsuoka:37
+289:Nissan:37
+290:Subaru:37
+291:Suzuki:37
+292:Toyota:37

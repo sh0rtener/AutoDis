@@ -1,0 +1,740 @@
+ManufacturerName,Model,Year,Color,BodyType,FuelType,TransmissionType,DriveTrain,Power,Doors,Seats,Mileage
+Lada,2101 (Zhiguli),1970,White,Sedan,Petrol,Manual,Rwd,62,4,5,250000
+Lada,2101 (Zhiguli),1975,Black,Sedan,Petrol,Manual,Rwd,62,4,5,300000
+Lada,2101 (Zhiguli),1980,Red,Sedan,Petrol,Manual,Rwd,62,4,5,350000
+Lada,2102,1971,White,Wagon,Petrol,Manual,Rwd,62,5,5,250000
+Lada,2102,1978,Green,Wagon,Petrol,Manual,Rwd,62,5,5,300000
+Lada,2103,1972,White,Sedan,Petrol,Manual,Rwd,75,4,5,280000
+Lada,2103,1978,Blue,Sedan,Petrol,Manual,Rwd,75,4,5,320000
+Lada,2104,1984,White,Wagon,Petrol,Manual,Rwd,70,5,5,300000
+Lada,2104,1995,Black,Wagon,Petrol,Manual,Rwd,70,5,5,350000
+Lada,2105,1980,White,Sedan,Petrol,Manual,Rwd,70,4,5,280000
+Lada,2105,1990,Red,Sedan,Petrol,Manual,Rwd,70,4,5,320000
+Lada,2106,1976,White,Sedan,Petrol,Manual,Rwd,80,4,5,300000
+Lada,2106,1985,Black,Sedan,Petrol,Manual,Rwd,80,4,5,350000
+Lada,2106,1995,Yellow,Sedan,Petrol,Manual,Rwd,75,4,5,400000
+Lada,2107,1982,White,Sedan,Petrol,Manual,Rwd,75,4,5,300000
+Lada,2107,1990,Black,Sedan,Petrol,Manual,Rwd,75,4,5,350000
+Lada,2107,2010,Silver,Sedan,Petrol,Manual,Rwd,72,4,5,450000
+Lada,Samara 2108,1984,White,Hatchback,Petrol,Manual,Fwd,68,3,5,250000
+Lada,Samara 2108,1990,Red,Hatchback,Petrol,Manual,Fwd,70,3,5,300000
+Lada,Samara 2109,1987,White,Hatchback,Petrol,Manual,Fwd,68,5,5,250000
+Lada,Samara 2109,1995,Blue,Hatchback,Petrol,Manual,Fwd,70,5,5,300000
+Lada,Samara 21099,1990,White,Sedan,Petrol,Manual,Fwd,70,4,5,280000
+Lada,Samara 21099,2005,Red,Sedan,Petrol,Manual,Fwd,71,4,5,380000
+Lada,Kalina 1118,2005,White,Sedan,Petrol,Manual,Fwd,81,4,5,280000
+Lada,Kalina 1118,2012,Black,Sedan,Petrol,Manual,Fwd,81,4,5,320000
+Lada,Kalina 1119,2006,White,Hatchback,Petrol,Manual,Fwd,81,5,5,280000
+Lada,Kalina 1119,2013,Red,Hatchback,Petrol,Automatic,Fwd,98,5,5,320000
+Lada,Kalina 1117,2004,White,Wagon,Petrol,Manual,Fwd,81,5,5,280000
+Lada,Priora 2170,2007,White,Sedan,Petrol,Manual,Fwd,98,4,5,280000
+Lada,Priora 2170,2012,Black,Sedan,Petrol,Manual,Fwd,98,4,5,320000
+Lada,Priora 2170,2015,Silver,Sedan,Petrol,Robotic,Fwd,98,4,5,350000
+Lada,Priora 2171,2008,White,Wagon,Petrol,Manual,Fwd,98,5,5,280000
+Lada,Priora 2172,2008,White,Hatchback,Petrol,Manual,Fwd,98,5,5,280000
+Lada,Granta Sedan,2011,White,Sedan,Petrol,Manual,Fwd,87,4,5,280000
+Lada,Granta Sedan,2018,Silver,Sedan,Petrol,Automatic,Fwd,106,4,5,350000
+Lada,Granta Liftback,2014,White,Hatchback,Petrol,Manual,Fwd,87,5,5,280000
+Lada,Granta Wagon,2012,White,Wagon,Petrol,Manual,Fwd,87,5,5,280000
+Lada,Vesta Sedan,2015,White,Sedan,Petrol,Manual,Fwd,106,4,5,300000
+Lada,Vesta Sedan,2020,Silver,Sedan,Petrol,Cvt,Fwd,113,4,5,350000
+Lada,Vesta Sedan,2022,Blue,Sedan,Petrol,Cvt,Fwd,122,4,5,380000
+Lada,Vesta SW,2016,White,Wagon,Petrol,Manual,Fwd,106,5,5,300000
+Lada,Vesta SW Cross,2017,Orange,Wagon,Petrol,Manual,Fwd,106,5,5,300000
+Lada,Vesta Sport,2020,Red,Sedan,Petrol,Manual,Fwd,145,4,5,300000
+Lada,XRAY,2016,White,Crossover,Petrol,Manual,Fwd,106,5,5,280000
+Lada,XRAY,2020,Silver,Crossover,Petrol,Robotic,Fwd,122,5,5,350000
+Lada,XRAY Cross,2018,Orange,Crossover,Petrol,Manual,Fwd,114,5,5,300000
+Lada,Niva Legend 2121,1977,Green,Suv,Petrol,Manual,FourWd,78,3,4,300000
+Lada,Niva Legend 2121,2015,White,Suv,Petrol,Manual,FourWd,83,3,4,450000
+Lada,Niva Legend 5D 2131,1993,Green,Suv,Petrol,Manual,FourWd,80,5,5,300000
+Lada,Niva Travel 2123,2002,White,Suv,Petrol,Manual,FourWd,80,5,5,300000
+Lada,Niva Travel 2123,2021,Silver,Suv,Petrol,Manual,FourWd,83,5,5,450000
+Lada,Largus,2012,White,Wagon,Petrol,Manual,Fwd,87,5,5,280000
+Lada,Largus,2020,Blue,Wagon,Petrol,Manual,Fwd,106,5,7,380000
+Lada,Largus Furgon,2012,White,Van,Petrol,Manual,Fwd,87,3,2,280000
+Lada,Largus Cross,2015,Orange,Wagon,Petrol,Manual,Fwd,106,5,5,300000
+UAZ,Patriot,2005,White,Suv,Petrol,Manual,FourWd,128,5,5,350000
+UAZ,Patriot,2015,Black,Suv,Diesel,Manual,FourWd,114,5,5,400000
+UAZ,Patriot,2022,Silver,Suv,Petrol,Automatic,FourWd,150,5,7,300000
+UAZ,Hunter,2003,Green,Suv,Petrol,Manual,FourWd,112,3,5,300000
+UAZ,Hunter,2018,Black,Suv,Diesel,Manual,FourWd,114,5,5,350000
+UAZ,2206 Bukhanka,1966,White,Van,Petrol,Manual,FourWd,92,3,9,400000
+UAZ,2206 Bukhanka,2020,Green,Van,Petrol,Manual,FourWd,112,5,10,300000
+UAZ,Pickup,2008,White,Pickup,Petrol,Manual,FourWd,128,4,5,300000
+UAZ,Pickup,2019,Black,Pickup,Diesel,Manual,FourWd,114,4,5,350000
+Aurus,Senat,2018,Black,Sedan,Hybrid,Automatic,Awd,598,4,4,10000
+Aurus,Senat,2022,Silver,Sedan,Hybrid,Automatic,Awd,598,4,5,5000
+Aurus,Komendant,2022,Black,Suv,Hybrid,Automatic,Awd,598,5,7,5000
+Aurus,Arsenal,2022,Black,Van,Hybrid,Automatic,Awd,598,5,7,5000
+Toyota,Camry,2010,White,Sedan,Petrol,Automatic,Fwd,181,4,5,250000
+Toyota,Camry,2015,Black,Sedan,Petrol,Automatic,Fwd,181,4,5,300000
+Toyota,Camry,2020,Silver,Sedan,Hybrid,Cvt,Fwd,208,4,5,150000
+Toyota,Camry,2023,Blue,Sedan,Petrol,Automatic,Fwd,203,4,5,50000
+Toyota,Corolla,2005,White,Sedan,Petrol,Manual,Fwd,110,4,5,300000
+Toyota,Corolla,2015,Silver,Sedan,Petrol,Cvt,Fwd,132,4,5,200000
+Toyota,Corolla,2022,Red,Sedan,Hybrid,Cvt,Fwd,122,4,5,80000
+Toyota,RAV4,2010,White,Suv,Petrol,Automatic,Fwd,169,5,5,250000
+Toyota,RAV4,2018,Black,Suv,Hybrid,Cvt,Awd,219,5,5,120000
+Toyota,RAV4,2023,Silver,Suv,Petrol,Automatic,Awd,203,5,5,50000
+Toyota,Land Cruiser 200,2008,White,Suv,Diesel,Automatic,FourWd,235,5,7,400000
+Toyota,Land Cruiser 200,2015,Black,Suv,Petrol,Automatic,FourWd,309,5,7,350000
+Toyota,Land Cruiser 300,2022,White,Suv,Diesel,Automatic,FourWd,299,5,7,100000
+Toyota,Land Cruiser 300,2023,Silver,Suv,Petrol,Automatic,FourWd,415,5,7,50000
+Toyota,Highlander,2012,White,Suv,Petrol,Automatic,Fwd,270,5,7,250000
+Toyota,Highlander,2020,Black,Suv,Hybrid,Cvt,Awd,306,5,7,100000
+Toyota,Prius,2010,Silver,Hatchback,Hybrid,Cvt,Fwd,134,5,5,300000
+Toyota,Prius,2020,White,Hatchback,Hybrid,Cvt,Fwd,121,5,5,150000
+Toyota,Prius,2023,Red,Hatchback,Hybrid,Cvt,Fwd,196,5,5,50000
+Toyota,Supra,2020,Red,Coupe,Petrol,Automatic,Rwd,340,2,2,50000
+Toyota,Supra,2023,Yellow,Coupe,Petrol,Automatic,Rwd,382,2,2,20000
+Toyota,Yaris,2015,White,Hatchback,Petrol,Manual,Fwd,109,5,5,200000
+Toyota,Yaris,2022,Blue,Hatchback,Hybrid,Cvt,Fwd,116,5,5,80000
+Toyota,Hilux,2010,White,Pickup,Diesel,Manual,FourWd,163,4,5,400000
+Toyota,Hilux,2022,Black,Pickup,Diesel,Automatic,FourWd,204,4,5,150000
+Toyota,4Runner,2015,Black,Suv,Petrol,Automatic,FourWd,270,5,5,250000
+Toyota,4Runner,2023,White,Suv,Petrol,Automatic,FourWd,278,5,5,80000
+Toyota,C-HR,2018,Red,Crossover,Petrol,Cvt,Fwd,144,5,5,120000
+Toyota,C-HR,2022,Blue,Crossover,Hybrid,Cvt,Fwd,184,5,5,60000
+Toyota,Tundra,2015,Black,Pickup,Petrol,Automatic,FourWd,381,4,5,250000
+Toyota,Tundra,2023,White,Pickup,Hybrid,Automatic,FourWd,437,4,5,50000
+Toyota,Sequoia,2020,White,Suv,Petrol,Automatic,FourWd,381,5,8,150000
+Toyota,Sequoia,2023,Black,Suv,Hybrid,Automatic,FourWd,437,5,8,30000
+Toyota,Tacoma,2018,Red,Pickup,Petrol,Automatic,FourWd,278,4,5,120000
+Toyota,Venza,2021,White,Suv,Hybrid,Cvt,Awd,219,5,5,60000
+Toyota,Mirai,2022,White,Sedan,Hydrogen,Automatic,Rwd,182,4,5,50000
+Honda,Civic,2010,White,Sedan,Petrol,Manual,Fwd,140,4,5,300000
+Honda,Civic,2018,Black,Sedan,Petrol,Cvt,Fwd,158,4,5,180000
+Honda,Civic,2023,Blue,Sedan,Hybrid,Cvt,Fwd,200,4,5,30000
+Honda,Accord,2012,Silver,Sedan,Petrol,Automatic,Fwd,192,4,5,280000
+Honda,Accord,2020,White,Sedan,Hybrid,Cvt,Fwd,212,4,5,100000
+Honda,CR-V,2015,Black,Suv,Petrol,Automatic,Fwd,184,5,5,250000
+Honda,CR-V,2022,White,Suv,Hybrid,Cvt,Awd,212,5,5,80000
+Honda,HR-V,2018,Red,Crossover,Petrol,Cvt,Fwd,141,5,5,150000
+Honda,HR-V,2023,Blue,Crossover,Hybrid,Cvt,Fwd,129,5,5,30000
+Honda,Pilot,2017,White,Suv,Petrol,Automatic,Fwd,280,5,8,200000
+Honda,Pilot,2023,Black,Suv,Petrol,Automatic,Awd,285,5,8,50000
+Honda,Odyssey,2015,Gray,Minivan,Petrol,Automatic,Fwd,248,5,8,250000
+Honda,Odyssey,2023,White,Minivan,Petrol,Automatic,Fwd,280,5,8,50000
+Honda,Fit,2012,Blue,Hatchback,Petrol,Manual,Fwd,117,5,5,250000
+Honda,Insight,2020,Silver,Sedan,Hybrid,Cvt,Fwd,151,4,5,100000
+Honda,Passport,2022,Black,Suv,Petrol,Automatic,Awd,280,5,5,60000
+Honda,Ridgeline,2020,White,Pickup,Petrol,Automatic,Awd,280,4,5,100000
+Honda,S2000,2005,Red,Convertible,Petrol,Manual,Rwd,240,2,2,150000
+Honda,NSX,2020,Red,Coupe,Hybrid,Automatic,Awd,573,2,2,30000
+Nissan,Qashqai,2010,White,Crossover,Petrol,Manual,Fwd,141,5,5,250000
+Nissan,Qashqai,2018,Black,Crossover,Petrol,Cvt,Fwd,141,5,5,150000
+Nissan,Qashqai,2023,Silver,Crossover,Hybrid,Cvt,Fwd,190,5,5,30000
+Nissan,X-Trail,2012,White,Suv,Petrol,Cvt,Fwd,171,5,5,280000
+Nissan,X-Trail,2020,Black,Suv,Hybrid,Cvt,Awd,204,5,7,100000
+Nissan,Juke,2015,Red,Crossover,Petrol,Manual,Fwd,117,5,5,200000
+Nissan,Juke,2022,Blue,Crossover,Petrol,Cvt,Fwd,114,5,5,60000
+Nissan,Pathfinder,2015,White,Suv,Petrol,Cvt,Fwd,260,5,7,250000
+Nissan,Pathfinder,2023,Black,Suv,Petrol,Automatic,Awd,284,5,7,50000
+Nissan,Murano,2018,Silver,Suv,Petrol,Cvt,Fwd,260,5,5,150000
+Nissan,Leaf,2015,White,Hatchback,Electric,Automatic,Fwd,109,5,5,150000
+Nissan,Leaf,2022,Blue,Hatchback,Electric,Automatic,Fwd,214,5,5,50000
+Nissan,GT-R,2015,Black,Coupe,Petrol,DualClutch,Awd,550,2,4,80000
+Nissan,GT-R,2023,White,Coupe,Petrol,DualClutch,Awd,565,2,4,20000
+Nissan,370Z,2015,Red,Coupe,Petrol,Manual,Rwd,332,2,2,100000
+Nissan,Maxima,2018,Black,Sedan,Petrol,Cvt,Fwd,300,4,5,120000
+Nissan,Altima,2020,White,Sedan,Petrol,Cvt,Fwd,188,4,5,100000
+Nissan,Rogue,2022,Silver,Suv,Petrol,Cvt,Fwd,181,5,5,60000
+Nissan,Sentra,2020,Blue,Sedan,Petrol,Cvt,Fwd,149,4,5,80000
+Nissan,Titan,2018,Black,Pickup,Petrol,Automatic,FourWd,400,4,5,120000
+Nissan,Armada,2022,White,Suv,Petrol,Automatic,FourWd,400,5,8,50000
+Nissan,Frontier,2022,Red,Pickup,Petrol,Automatic,FourWd,310,4,5,60000
+Nissan,Kicks,2020,White,Crossover,Petrol,Cvt,Fwd,122,5,5,80000
+Nissan,Micra,2015,Blue,Hatchback,Petrol,Manual,Fwd,79,5,5,200000
+Mazda,CX-5,2015,White,Suv,Petrol,Automatic,Fwd,187,5,5,250000
+Mazda,CX-5,2022,Black,Suv,Petrol,Automatic,Awd,187,5,5,80000
+Mazda,CX-5,2023,Red,Suv,Diesel,Automatic,Awd,200,5,5,30000
+Mazda,Mazda3,2012,Blue,Sedan,Petrol,Manual,Fwd,150,4,5,280000
+Mazda,Mazda3,2018,White,Hatchback,Petrol,Automatic,Fwd,155,5,5,150000
+Mazda,Mazda3,2023,Black,Sedan,Petrol,Automatic,Awd,191,4,5,30000
+Mazda,Mazda6,2015,Silver,Sedan,Petrol,Automatic,Fwd,184,4,5,250000
+Mazda,Mazda6,2020,White,Sedan,Diesel,Automatic,Fwd,180,4,5,100000
+Mazda,MX-5,2010,Red,Convertible,Petrol,Manual,Rwd,160,2,2,200000
+Mazda,MX-5,2022,White,Convertible,Petrol,Manual,Rwd,181,2,2,50000
+Mazda,CX-30,2020,Black,Crossover,Petrol,Automatic,Fwd,155,5,5,80000
+Mazda,CX-30,2023,Blue,Crossover,Petrol,Automatic,Awd,186,5,5,30000
+Mazda,CX-50,2023,White,Crossover,Petrol,Automatic,Awd,256,5,5,30000
+Mazda,CX-90,2024,Silver,Suv,Hybrid,Automatic,Awd,340,5,7,10000
+Mazda,CX-9,2018,Black,Suv,Petrol,Automatic,Fwd,250,5,7,120000
+Mazda,CX-9,2022,White,Suv,Petrol,Automatic,Awd,250,5,7,50000
+Mazda,CX-3,2018,Red,Crossover,Petrol,Automatic,Fwd,148,5,5,120000
+Subaru,Outback,2015,White,Wagon,Petrol,Cvt,Awd,175,5,5,250000
+Subaru,Outback,2022,Black,Wagon,Petrol,Cvt,Awd,182,5,5,80000
+Subaru,Forester,2015,Silver,Suv,Petrol,Cvt,Awd,170,5,5,250000
+Subaru,Forester,2023,Blue,Suv,Petrol,Cvt,Awd,182,5,5,30000
+Subaru,Impreza,2012,White,Sedan,Petrol,Manual,Awd,148,4,5,280000
+Subaru,Impreza,2020,Black,Hatchback,Petrol,Cvt,Awd,152,5,5,100000
+Subaru,Crosstrek,2018,Red,Crossover,Petrol,Cvt,Awd,152,5,5,120000
+Subaru,Crosstrek,2023,Blue,Crossover,Hybrid,Cvt,Awd,194,5,5,30000
+Subaru,Legacy,2015,White,Sedan,Petrol,Cvt,Awd,175,4,5,250000
+Subaru,Legacy,2022,Black,Sedan,Petrol,Cvt,Awd,260,4,5,60000
+Subaru,BRZ,2015,Blue,Coupe,Petrol,Manual,Rwd,200,2,4,150000
+Subaru,BRZ,2023,Yellow,Coupe,Petrol,Manual,Rwd,228,2,4,20000
+Subaru,WRX,2018,White,Sedan,Petrol,Manual,Awd,268,4,5,100000
+Subaru,WRX,2023,Blue,Sedan,Petrol,Manual,Awd,271,4,5,30000
+Subaru,Ascent,2020,Black,Suv,Petrol,Cvt,Awd,260,5,8,80000
+Mitsubishi,Outlander,2015,White,Suv,Petrol,Cvt,Fwd,166,5,5,250000
+Mitsubishi,Outlander,2022,Black,Suv,Hybrid,Cvt,Awd,221,5,7,60000
+Mitsubishi,Pajero,2010,White,Suv,Diesel,Manual,FourWd,200,5,7,400000
+Mitsubishi,Pajero,2018,Black,Suv,Diesel,Automatic,FourWd,178,5,7,300000
+Mitsubishi,L200,2015,White,Pickup,Diesel,Manual,FourWd,154,4,5,350000
+Mitsubishi,L200,2022,Black,Pickup,Diesel,Automatic,FourWd,150,4,5,100000
+Mitsubishi,Eclipse Cross,2018,Red,Crossover,Petrol,Cvt,Fwd,163,5,5,100000
+Mitsubishi,Eclipse Cross,2022,Blue,Crossover,Hybrid,Cvt,Awd,188,5,5,40000
+Mitsubishi,ASX,2015,Silver,Crossover,Petrol,Manual,Fwd,117,5,5,250000
+Mitsubishi,Lancer,2010,White,Sedan,Petrol,Manual,Fwd,152,4,5,280000
+Mitsubishi,Lancer,2015,Black,Sedan,Petrol,Cvt,Fwd,148,4,5,200000
+Mitsubishi,Colt,2010,Blue,Hatchback,Petrol,Manual,Fwd,109,5,5,250000
+Mitsubishi,3000GT,1995,Red,Coupe,Petrol,Manual,Awd,320,2,4,250000
+Mitsubishi,Eclipse,2005,Yellow,Coupe,Petrol,Manual,Fwd,210,2,4,200000
+Lexus,RX,2015,White,Suv,Petrol,Automatic,Fwd,270,5,5,250000
+Lexus,RX,2022,Black,Suv,Hybrid,Cvt,Awd,308,5,5,80000
+Lexus,ES,2015,Silver,Sedan,Petrol,Automatic,Fwd,272,4,5,250000
+Lexus,ES,2023,White,Sedan,Hybrid,Cvt,Fwd,215,4,5,30000
+Lexus,NX,2018,Red,Suv,Petrol,Automatic,Fwd,235,5,5,120000
+Lexus,NX,2023,Blue,Suv,Hybrid,Cvt,Awd,240,5,5,30000
+Lexus,LX,2015,Black,Suv,Petrol,Automatic,FourWd,383,5,7,300000
+Lexus,LX,2023,White,Suv,Petrol,Automatic,FourWd,409,5,7,50000
+Lexus,IS,2015,Blue,Sedan,Petrol,Automatic,Rwd,241,4,5,250000
+Lexus,IS,2022,Black,Sedan,Petrol,Automatic,Rwd,311,4,5,60000
+Lexus,LS,2018,White,Sedan,Hybrid,Automatic,Awd,354,4,5,100000
+Lexus,GX,2020,Silver,Suv,Petrol,Automatic,FourWd,301,5,7,120000
+Lexus,UX,2020,Red,Crossover,Hybrid,Cvt,Fwd,181,5,5,80000
+Lexus,RC,2018,Black,Coupe,Petrol,Automatic,Rwd,241,2,4,100000
+Lexus,LC,2020,White,Coupe,Petrol,Automatic,Rwd,471,2,4,60000
+Infiniti,Q50,2015,White,Sedan,Petrol,Automatic,Rwd,300,4,5,250000
+Infiniti,Q50,2022,Black,Sedan,Petrol,Automatic,Awd,400,4,5,60000
+Infiniti,QX50,2018,Red,Suv,Petrol,Cvt,Fwd,268,5,5,100000
+Infiniti,QX50,2023,Blue,Suv,Petrol,Cvt,Awd,268,5,5,30000
+Infiniti,QX60,2015,White,Suv,Petrol,Cvt,Fwd,295,5,7,250000
+Infiniti,QX60,2023,Black,Suv,Petrol,Automatic,Awd,295,5,7,30000
+Infiniti,QX80,2018,Silver,Suv,Petrol,Automatic,FourWd,400,5,8,120000
+Infiniti,Q60,2018,Red,Coupe,Petrol,Automatic,Rwd,400,2,4,80000
+Acura,MDX,2015,White,Suv,Petrol,Automatic,Fwd,290,5,7,250000
+Acura,MDX,2023,Black,Suv,Hybrid,Automatic,Awd,355,5,7,30000
+Acura,RDX,2018,Silver,Suv,Petrol,Automatic,Fwd,272,5,5,100000
+Acura,RDX,2023,Blue,Suv,Petrol,Automatic,Awd,272,5,5,30000
+Acura,TLX,2020,White,Sedan,Petrol,Automatic,Fwd,272,4,5,80000
+Acura,TLX,2023,Red,Sedan,Petrol,Automatic,Awd,355,4,5,30000
+Acura,Integra,2023,Blue,Hatchback,Petrol,Manual,Fwd,200,5,5,20000
+Acura,NSX,2018,Red,Coupe,Hybrid,DualClutch,Awd,573,2,2,40000
+Suzuki,Swift,2015,White,Hatchback,Petrol,Manual,Fwd,94,5,5,250000
+Suzuki,Swift,2022,Blue,Hatchback,Hybrid,Manual,Fwd,118,5,5,60000
+Suzuki,Vitara,2015,Black,Suv,Petrol,Manual,Fwd,117,5,5,250000
+Suzuki,Vitara,2022,Red,Suv,Hybrid,Automatic,Awd,129,5,5,60000
+Suzuki,Jimny,2018,Green,Suv,Petrol,Manual,FourWd,102,3,4,200000
+Suzuki,Jimny,2023,Blue,Suv,Petrol,Manual,FourWd,102,3,4,30000
+Suzuki,SX4,2015,White,Crossover,Petrol,Manual,Fwd,117,5,5,250000
+Suzuki,Alto,2015,Silver,Hatchback,Petrol,Manual,Fwd,68,5,4,250000
+Suzuki,Baleno,2018,Blue,Hatchback,Petrol,Manual,Fwd,91,5,5,150000
+Suzuki,Ignis,2020,Red,Crossover,Petrol,Manual,Fwd,90,5,4,100000
+Suzuki,S-Cross,2022,White,Crossover,Hybrid,Manual,Fwd,129,5,5,50000
+Suzuki,Ertiga,2018,Black,Minivan,Petrol,Manual,Fwd,105,5,7,120000
+Ford,Focus,2010,White,Hatchback,Petrol,Manual,Fwd,125,5,5,280000
+Ford,Focus,2018,Blue,Hatchback,Petrol,Automatic,Fwd,150,5,5,150000
+Ford,Mustang,2015,Red,Coupe,Petrol,Manual,Rwd,310,2,4,200000
+Ford,Mustang,2023,Yellow,Coupe,Petrol,Automatic,Rwd,480,2,4,30000
+Ford,Mustang,2024,Black,Coupe,Petrol,Manual,Rwd,500,2,4,10000
+Ford,F-150,2010,White,Pickup,Petrol,Automatic,FourWd,360,4,5,350000
+Ford,F-150,2020,Black,Pickup,Petrol,Automatic,FourWd,400,4,5,120000
+Ford,F-150,2023,Blue,Pickup,Hybrid,Automatic,FourWd,430,4,5,50000
+Ford,Explorer,2015,Silver,Suv,Petrol,Automatic,Fwd,290,5,7,250000
+Ford,Explorer,2023,White,Suv,Hybrid,Automatic,Awd,318,5,7,30000
+Ford,Fiesta,2012,Blue,Hatchback,Petrol,Manual,Fwd,100,5,5,250000
+Ford,Fiesta,2018,Red,Hatchback,Petrol,Automatic,Fwd,125,5,5,120000
+Ford,Fusion,2015,Black,Sedan,Petrol,Automatic,Fwd,175,4,5,250000
+Ford,Ranger,2018,White,Pickup,Diesel,Manual,FourWd,200,4,5,150000
+Ford,Ranger,2023,Black,Pickup,Diesel,Automatic,FourWd,250,4,5,50000
+Ford,Bronco,2021,Blue,Suv,Petrol,Manual,FourWd,300,4,5,50000
+Ford,Bronco,2023,Green,Suv,Petrol,Automatic,FourWd,330,4,5,30000
+Ford,Edge,2018,White,Suv,Petrol,Automatic,Fwd,245,5,5,120000
+Ford,Escape,2020,Black,Suv,Hybrid,Cvt,Fwd,200,5,5,80000
+Ford,Expedition,2020,White,Suv,Petrol,Automatic,FourWd,380,5,8,100000
+Ford,EcoSport,2018,Red,Crossover,Petrol,Automatic,Fwd,166,5,5,100000
+Ford,Puma,2022,Blue,Crossover,Hybrid,Automatic,Fwd,155,5,5,40000
+Chevrolet,Silverado,2015,White,Pickup,Petrol,Automatic,FourWd,355,4,5,300000
+Chevrolet,Silverado,2023,Black,Pickup,Petrol,Automatic,FourWd,420,4,5,50000
+Chevrolet,Tahoe,2015,Black,Suv,Petrol,Automatic,FourWd,355,5,8,300000
+Chevrolet,Tahoe,2023,White,Suv,Diesel,Automatic,FourWd,277,5,8,50000
+Chevrolet,Camaro,2015,Red,Coupe,Petrol,Manual,Rwd,335,2,4,200000
+Chevrolet,Camaro,2023,Yellow,Coupe,Petrol,Automatic,Rwd,455,2,4,30000
+Chevrolet,Equinox,2018,White,Suv,Petrol,Automatic,Fwd,175,5,5,120000
+Chevrolet,Equinox,2023,Blue,Suv,Petrol,Automatic,Awd,175,5,5,30000
+Chevrolet,Malibu,2015,Black,Sedan,Petrol,Automatic,Fwd,160,4,5,250000
+Chevrolet,Malibu,2022,White,Sedan,Hybrid,Automatic,Fwd,160,4,5,60000
+Chevrolet,Corvette,2015,Red,Convertible,Petrol,Manual,Rwd,455,2,2,100000
+Chevrolet,Corvette,2023,Yellow,Coupe,Petrol,DualClutch,Rwd,495,2,2,20000
+Chevrolet,Traverse,2018,Black,Suv,Petrol,Automatic,Fwd,288,5,8,100000
+Chevrolet,Blazer,2020,Red,Suv,Petrol,Automatic,Fwd,308,5,5,80000
+Chevrolet,Colorado,2018,White,Pickup,Diesel,Manual,FourWd,186,4,5,120000
+Chevrolet,Suburban,2020,Black,Suv,Petrol,Automatic,FourWd,355,5,9,100000
+Chevrolet,Cruze,2015,Blue,Sedan,Petrol,Manual,Fwd,138,4,5,250000
+Chevrolet,Sonic,2015,Silver,Hatchback,Petrol,Manual,Fwd,138,5,5,250000
+Chevrolet,Spark,2018,Red,Hatchback,Petrol,Manual,Fwd,98,5,4,150000
+Chevrolet,Aveo,2015,White,Sedan,Petrol,Manual,Fwd,103,4,5,250000
+Tesla,Model 3,2018,White,Sedan,Electric,Automatic,Rwd,283,4,5,250000
+Tesla,Model 3,2022,Black,Sedan,Electric,Automatic,Awd,346,4,5,80000
+Tesla,Model 3,2023,Red,Sedan,Electric,Automatic,Awd,510,4,5,30000
+Tesla,Model Y,2020,White,Suv,Electric,Automatic,Rwd,283,5,5,150000
+Tesla,Model Y,2023,Blue,Suv,Electric,Automatic,Awd,384,5,5,30000
+Tesla,Model S,2015,Black,Sedan,Electric,Automatic,Awd,463,4,5,250000
+Tesla,Model S,2023,White,Sedan,Electric,Automatic,Awd,670,4,5,50000
+Tesla,Model X,2018,White,Suv,Electric,Automatic,Awd,417,5,7,150000
+Tesla,Model X,2023,Blue,Suv,Electric,Automatic,Awd,670,5,7,30000
+Tesla,Cybertruck,2024,Silver,Pickup,Electric,Automatic,Awd,845,4,6,10000
+Tesla,Roadster,2025,Red,Convertible,Electric,Automatic,Awd,1000,2,4,5000
+GMC,Sierra,2015,White,Pickup,Petrol,Automatic,FourWd,355,4,5,300000
+GMC,Sierra,2023,Black,Pickup,Petrol,Automatic,FourWd,420,4,5,50000
+GMC,Yukon,2018,Black,Suv,Petrol,Automatic,FourWd,355,5,8,150000
+GMC,Yukon,2023,White,Suv,Diesel,Automatic,FourWd,277,5,8,50000
+GMC,Terrain,2018,Silver,Suv,Petrol,Automatic,Fwd,175,5,5,120000
+GMC,Acadia,2020,White,Suv,Petrol,Automatic,Fwd,310,5,7,100000
+GMC,Canyon,2018,Red,Pickup,Diesel,Manual,FourWd,186,4,5,120000
+GMC,Hummer EV,2022,Black,Pickup,Electric,Automatic,FourWd,1000,4,5,30000
+Cadillac,Escalade,2015,Black,Suv,Petrol,Automatic,FourWd,420,5,8,250000
+Cadillac,Escalade,2023,White,Suv,Petrol,Automatic,FourWd,420,5,8,50000
+Cadillac,CT5,2020,Blue,Sedan,Petrol,Automatic,Rwd,237,4,5,80000
+Cadillac,CT5,2023,Black,Sedan,Petrol,Automatic,Awd,335,4,5,30000
+Cadillac,XT5,2018,White,Suv,Petrol,Automatic,Fwd,235,5,5,100000
+Cadillac,XT5,2023,Silver,Suv,Petrol,Automatic,Awd,310,5,5,30000
+Cadillac,Lyriq,2023,Blue,Suv,Electric,Automatic,Awd,510,5,5,20000
+Cadillac,CT4,2020,White,Sedan,Petrol,Automatic,Rwd,237,4,5,80000
+Cadillac,XT4,2019,Black,Suv,Petrol,Automatic,Fwd,235,5,5,100000
+Cadillac,XT6,2020,White,Suv,Petrol,Automatic,Fwd,310,5,7,80000
+Jeep,Wrangler,2015,Black,Suv,Petrol,Manual,FourWd,285,4,5,250000
+Jeep,Wrangler,2023,Green,Suv,Petrol,Automatic,FourWd,285,4,5,50000
+Jeep,Wrangler,2023,Blue,Suv,Hybrid,Automatic,FourWd,375,4,5,30000
+Jeep,Grand Cherokee,2015,White,Suv,Petrol,Automatic,FourWd,295,5,5,250000
+Jeep,Grand Cherokee,2023,Black,Suv,Hybrid,Automatic,FourWd,375,5,5,30000
+Jeep,Cherokee,2015,Silver,Suv,Petrol,Automatic,Fwd,271,5,5,250000
+Jeep,Compass,2018,Red,Suv,Petrol,Automatic,Fwd,180,5,5,120000
+Jeep,Renegade,2018,Blue,Suv,Petrol,Manual,Fwd,180,5,5,120000
+Jeep,Gladiator,2020,White,Pickup,Petrol,Manual,FourWd,285,4,5,80000
+Jeep,Gladiator,2023,Black,Pickup,Diesel,Automatic,FourWd,260,4,5,30000
+Jeep,Wagoneer,2022,White,Suv,Petrol,Automatic,FourWd,392,5,8,50000
+Jeep,Grand Wagoneer,2022,Black,Suv,Petrol,Automatic,FourWd,471,5,8,50000
+Dodge,Challenger,2015,Black,Coupe,Petrol,Manual,Rwd,375,2,5,200000
+Dodge,Challenger,2023,Red,Coupe,Petrol,Automatic,Rwd,717,2,5,30000
+Dodge,Charger,2015,White,Sedan,Petrol,Automatic,Rwd,370,4,5,200000
+Dodge,Charger,2023,Blue,Sedan,Petrol,Automatic,Rwd,717,4,5,30000
+Dodge,Durango,2018,Black,Suv,Petrol,Automatic,FourWd,295,5,7,120000
+Dodge,Durango,2023,White,Suv,Petrol,Automatic,FourWd,360,5,7,50000
+Dodge,Hornet,2023,Red,Suv,Hybrid,Automatic,Awd,288,5,5,20000
+Dodge,Viper,2015,Red,Convertible,Petrol,Manual,Rwd,645,2,2,80000
+Chrysler,Pacifica,2018,White,Minivan,Petrol,Automatic,Fwd,287,5,8,120000
+Chrysler,Pacifica,2023,Black,Minivan,Hybrid,Automatic,Fwd,260,5,7,50000
+Chrysler,300,2015,Black,Sedan,Petrol,Automatic,Rwd,292,4,5,250000
+Chrysler,300,2023,White,Sedan,Petrol,Automatic,Awd,300,4,5,50000
+Chrysler,Voyager,2022,Silver,Minivan,Petrol,Automatic,Fwd,287,5,7,60000
+Lincoln,Navigator,2018,Black,Suv,Petrol,Automatic,FourWd,440,5,8,150000
+Lincoln,Navigator,2023,White,Suv,Petrol,Automatic,FourWd,440,5,8,50000
+Lincoln,Aviator,2020,Blue,Suv,Petrol,Automatic,Awd,400,5,7,80000
+Lincoln,Corsair,2020,White,Suv,Hybrid,Automatic,Awd,266,5,5,80000
+Lincoln,Nautilus,2019,Black,Suv,Petrol,Automatic,Awd,335,5,5,100000
+Lincoln,Continental,2018,Silver,Sedan,Petrol,Automatic,Awd,335,4,5,100000
+Hyundai,Tucson,2015,White,Suv,Petrol,Automatic,Fwd,164,5,5,250000
+Hyundai,Tucson,2022,Black,Suv,Hybrid,Automatic,Awd,226,5,5,80000
+Hyundai,Tucson,2023,Blue,Suv,Petrol,Automatic,Fwd,187,5,5,30000
+Hyundai,Santa Fe,2015,Silver,Suv,Petrol,Automatic,Fwd,290,5,7,250000
+Hyundai,Santa Fe,2023,White,Suv,Hybrid,Automatic,Awd,230,5,7,30000
+Hyundai,Elantra,2015,Red,Sedan,Petrol,Manual,Fwd,145,4,5,250000
+Hyundai,Elantra,2023,Blue,Sedan,Hybrid,Cvt,Fwd,139,4,5,30000
+Hyundai,Accent,2015,White,Sedan,Petrol,Manual,Fwd,137,4,5,250000
+Hyundai,Sonata,2018,Black,Sedan,Petrol,Automatic,Fwd,185,4,5,120000
+Hyundai,Sonata,2023,White,Sedan,Hybrid,Automatic,Fwd,192,4,5,30000
+Hyundai,Kona,2018,Red,Crossover,Petrol,Automatic,Fwd,147,5,5,120000
+Hyundai,Kona,2023,Blue,Crossover,Electric,Automatic,Fwd,201,5,5,30000
+Hyundai,Palisade,2020,Black,Suv,Petrol,Automatic,Fwd,291,5,8,80000
+Hyundai,Palisade,2023,White,Suv,Diesel,Automatic,Awd,246,5,8,30000
+Hyundai,Ioniq 5,2022,White,Suv,Electric,Automatic,Awd,320,5,5,50000
+Hyundai,Ioniq 6,2023,Blue,Sedan,Electric,Automatic,Rwd,536,4,5,20000
+Hyundai,Venue,2020,Silver,Crossover,Petrol,Cvt,Fwd,119,5,5,80000
+Hyundai,Veloster,2018,Yellow,Coupe,Petrol,Manual,Fwd,201,3,4,100000
+Kia,Sportage,2015,White,Suv,Petrol,Manual,Fwd,164,5,5,250000
+Kia,Sportage,2023,Black,Suv,Hybrid,Automatic,Awd,227,5,5,30000
+Kia,Sorento,2015,Silver,Suv,Diesel,Automatic,Fwd,197,5,7,250000
+Kia,Sorento,2023,Blue,Suv,Hybrid,Automatic,Awd,230,5,7,30000
+Kia,Rio,2015,Red,Sedan,Petrol,Manual,Fwd,138,4,5,250000
+Kia,Rio,2022,White,Sedan,Petrol,Cvt,Fwd,120,4,5,60000
+Kia,K5,2020,Black,Sedan,Petrol,Automatic,Fwd,180,4,5,80000
+Kia,K5,2023,Blue,Sedan,Petrol,Automatic,Awd,290,4,5,30000
+Kia,Stinger,2018,Red,Hatchback,Petrol,Automatic,Rwd,365,5,5,100000
+Kia,Telluride,2020,White,Suv,Petrol,Automatic,Fwd,291,5,8,80000
+Kia,Telluride,2023,Black,Suv,Petrol,Automatic,Awd,291,5,8,30000
+Kia,EV6,2022,Blue,Crossover,Electric,Automatic,Awd,320,5,5,50000
+Kia,Forte,2018,White,Sedan,Petrol,Cvt,Fwd,147,4,5,120000
+Kia,Ceed,2018,Black,Hatchback,Petrol,Manual,Fwd,140,5,5,100000
+Kia,Picanto,2015,Red,Hatchback,Petrol,Manual,Fwd,67,5,4,250000
+Kia,Carnival,2022,White,Minivan,Petrol,Automatic,Fwd,290,5,8,60000
+Genesis,G70,2019,Black,Sedan,Petrol,Automatic,Rwd,252,4,5,100000
+Genesis,G70,2023,Blue,Sedan,Petrol,Automatic,Awd,365,4,5,30000
+Genesis,G80,2018,White,Sedan,Petrol,Automatic,Rwd,365,4,5,100000
+Genesis,G80,2023,Silver,Sedan,Petrol,Automatic,Awd,375,4,5,30000
+Genesis,G90,2020,Black,Sedan,Petrol,Automatic,Awd,409,4,5,80000
+Genesis,GV60,2023,Blue,Suv,Electric,Automatic,Awd,429,5,5,20000
+Genesis,GV70,2021,White,Suv,Petrol,Automatic,Awd,300,5,5,60000
+Genesis,GV70,2023,Black,Suv,Electric,Automatic,Awd,429,5,5,30000
+Genesis,GV80,2021,Silver,Suv,Diesel,Automatic,Awd,278,5,7,60000
+Genesis,GV80,2023,White,Suv,Petrol,Automatic,Awd,375,5,7,30000
+Ferrari,488,2015,Red,Coupe,Petrol,DualClutch,Rwd,661,2,2,80000
+Ferrari,488,2020,Yellow,Convertible,Petrol,DualClutch,Rwd,710,2,2,40000
+Ferrari,F8 Tributo,2019,Red,Coupe,Petrol,DualClutch,Rwd,710,2,2,50000
+Ferrari,F8 Tributo,2022,Blue,Convertible,Petrol,DualClutch,Rwd,710,2,2,20000
+Ferrari,Roma,2020,Black,Coupe,Petrol,DualClutch,Rwd,612,2,2,40000
+Ferrari,Roma,2023,White,Coupe,Petrol,DualClutch,Rwd,612,2,2,10000
+Ferrari,SF90,2020,Red,Coupe,Hybrid,DualClutch,Awd,986,2,2,30000
+Ferrari,SF90,2023,Yellow,Convertible,Hybrid,DualClutch,Awd,986,2,2,10000
+Ferrari,812,2017,Red,Coupe,Petrol,DualClutch,Rwd,789,2,2,50000
+Ferrari,Portofino,2018,Black,Convertible,Petrol,DualClutch,Rwd,592,2,4,40000
+Ferrari,Purosangue,2023,Silver,Suv,Petrol,DualClutch,Awd,715,5,5,10000
+Ferrari,LaFerrari,2015,Red,Coupe,Hybrid,DualClutch,Rwd,950,2,2,20000
+Ferrari,Enzo,2003,Red,Coupe,Petrol,Manual,Rwd,650,2,2,15000
+Ferrari,F40,1990,Red,Coupe,Petrol,Manual,Rwd,478,2,2,25000
+Ferrari,Testarossa,1985,Red,Coupe,Petrol,Manual,Rwd,390,2,2,200000
+Lamborghini,Huracan,2015,Yellow,Coupe,Petrol,DualClutch,Awd,602,2,2,80000
+Lamborghini,Huracan,2022,Red,Convertible,Petrol,DualClutch,Awd,631,2,2,30000
+Lamborghini,Aventador,2012,Orange,Coupe,Petrol,Automatic,Awd,700,2,2,60000
+Lamborghini,Aventador,2020,Green,Convertible,Petrol,Automatic,Awd,769,2,2,30000
+Lamborghini,Urus,2018,Black,Suv,Petrol,Automatic,Awd,641,5,5,50000
+Lamborghini,Urus,2023,Blue,Suv,Petrol,Automatic,Awd,657,5,5,10000
+Lamborghini,Revuelto,2024,Yellow,Coupe,Hybrid,DualClutch,Awd,1001,2,2,5000
+Lamborghini,Gallardo,2005,Red,Coupe,Petrol,Manual,Awd,493,2,2,100000
+Lamborghini,Diablo,1995,Yellow,Coupe,Petrol,Manual,Rwd,492,2,2,150000
+Lamborghini,Murcielago,2005,Black,Coupe,Petrol,Manual,Awd,572,2,2,80000
+Lamborghini,Countach,1988,White,Coupe,Petrol,Manual,Rwd,455,2,2,200000
+Maserati,Ghibli,2015,Black,Sedan,Diesel,Automatic,Rwd,275,4,5,150000
+Maserati,Ghibli,2022,Blue,Sedan,Petrol,Automatic,Awd,350,4,5,50000
+Maserati,Quattroporte,2015,White,Sedan,Petrol,Automatic,Rwd,424,4,5,150000
+Maserati,Quattroporte,2022,Silver,Sedan,Petrol,Automatic,Awd,530,4,5,50000
+Maserati,Levante,2018,Black,Suv,Diesel,Automatic,Awd,275,5,5,100000
+Maserati,Levante,2023,Blue,Suv,Petrol,Automatic,Awd,430,5,5,30000
+Maserati,Grecale,2022,White,Suv,Petrol,Automatic,Awd,330,5,5,40000
+Maserati,MC20,2021,Yellow,Coupe,Petrol,DualClutch,Rwd,621,2,2,20000
+Maserati,GranTurismo,2023,Red,Coupe,Petrol,Automatic,Awd,550,2,4,10000
+Fiat,500,2012,Red,Hatchback,Petrol,Manual,Fwd,101,3,4,250000
+Fiat,500,2020,Blue,Hatchback,Electric,Automatic,Fwd,118,3,4,80000
+Fiat,Panda,2015,White,Hatchback,Petrol,Manual,Fwd,69,5,4,250000
+Fiat,Panda,2022,Green,Hatchback,Hybrid,Manual,Fwd,70,5,4,60000
+Fiat,Tipo,2015,Black,Hatchback,Petrol,Manual,Fwd,120,5,5,250000
+Fiat,500X,2018,Red,Crossover,Petrol,Automatic,Fwd,180,5,5,120000
+Fiat,500L,2015,Blue,Minivan,Petrol,Manual,Fwd,105,5,5,250000
+Fiat,124 Spider,2018,White,Convertible,Petrol,Manual,Rwd,160,2,2,100000
+Fiat,Punto,2012,Silver,Hatchback,Petrol,Manual,Fwd,69,5,5,250000
+Alfa Romeo,Giulia,2016,Red,Sedan,Petrol,Automatic,Rwd,280,4,5,150000
+Alfa Romeo,Giulia,2023,Black,Sedan,Petrol,Automatic,Awd,505,4,5,30000
+Alfa Romeo,Stelvio,2018,White,Suv,Petrol,Automatic,Awd,280,5,5,100000
+Alfa Romeo,Stelvio,2023,Blue,Suv,Petrol,Automatic,Awd,505,5,5,30000
+Alfa Romeo,Tonale,2023,Silver,Suv,Hybrid,Automatic,Awd,275,5,5,20000
+Alfa Romeo,4C,2015,Red,Coupe,Petrol,DualClutch,Rwd,237,2,2,80000
+Alfa Romeo,8C,2008,Black,Coupe,Petrol,Manual,Rwd,444,2,2,50000
+Alfa Romeo,MiTo,2012,Blue,Hatchback,Petrol,Manual,Fwd,105,3,4,200000
+Alfa Romeo,GTV,2000,Red,Coupe,Petrol,Manual,Fwd,230,2,2,200000
+Alfa Romeo,159,2008,Silver,Sedan,Petrol,Manual,Fwd,200,4,5,200000
+Alfa Romeo,147,2005,Black,Hatchback,Petrol,Manual,Fwd,140,5,5,250000
+Lancia,Ypsilon,2015,White,Hatchback,Petrol,Manual,Fwd,69,5,5,250000
+Lancia,Ypsilon,2023,Blue,Hatchback,Electric,Automatic,Fwd,118,5,5,20000
+Lancia,Delta,2010,Red,Hatchback,Petrol,Manual,Fwd,200,5,5,200000
+Jaguar,F-Pace,2016,White,Suv,Diesel,Automatic,Awd,300,5,5,150000
+Jaguar,F-Pace,2023,Black,Suv,Petrol,Automatic,Awd,395,5,5,30000
+Jaguar,XE,2015,Silver,Sedan,Petrol,Automatic,Rwd,240,4,5,200000
+Jaguar,XE,2022,Blue,Sedan,Diesel,Automatic,Awd,163,4,5,60000
+Jaguar,XF,2015,Black,Sedan,Petrol,Automatic,Rwd,240,4,5,200000
+Jaguar,XF,2023,White,Sedan,Diesel,Automatic,Awd,204,4,5,30000
+Jaguar,I-Pace,2019,Blue,Suv,Electric,Automatic,Awd,394,5,5,80000
+Jaguar,I-Pace,2023,White,Suv,Electric,Automatic,Awd,394,5,5,30000
+Jaguar,F-Type,2015,Red,Convertible,Petrol,Automatic,Rwd,340,2,2,150000
+Jaguar,F-Type,2023,Black,Coupe,Petrol,Automatic,Awd,444,2,2,30000
+Jaguar,E-Pace,2018,White,Suv,Diesel,Automatic,Awd,180,5,5,100000
+Jaguar,XJ,2015,Black,Sedan,Petrol,Automatic,Rwd,340,4,5,200000
+Jaguar,S-Type,2005,Silver,Sedan,Diesel,Automatic,Rwd,204,4,5,250000
+Land Rover,Defender 90,2020,Green,Suv,Diesel,Automatic,FourWd,296,3,5,80000
+Land Rover,Defender 110,2020,Black,Suv,Diesel,Automatic,FourWd,296,5,5,80000
+Land Rover,Defender 110,2023,White,Suv,Petrol,Automatic,FourWd,395,5,5,30000
+Land Rover,Discovery,2018,Silver,Suv,Diesel,Automatic,FourWd,258,5,7,100000
+Land Rover,Discovery,2023,Blue,Suv,Petrol,Automatic,FourWd,355,5,7,30000
+Land Rover,Range Rover,2015,Black,Suv,Diesel,Automatic,FourWd,339,5,5,200000
+Land Rover,Range Rover,2023,White,Suv,Petrol,Automatic,FourWd,523,5,5,30000
+Land Rover,Range Rover Sport,2018,Silver,Suv,Diesel,Automatic,FourWd,258,5,5,100000
+Land Rover,Range Rover Sport,2023,Black,Suv,Petrol,Automatic,FourWd,395,5,5,30000
+Land Rover,Range Rover Velar,2018,White,Suv,Diesel,Automatic,FourWd,300,5,5,100000
+Land Rover,Range Rover Evoque,2015,Red,Suv,Diesel,Automatic,FourWd,150,5,5,200000
+Land Rover,Range Rover Evoque,2023,Blue,Suv,Hybrid,Automatic,Awd,304,5,5,30000
+Land Rover,Freelander,2010,Green,Suv,Diesel,Manual,FourWd,150,5,5,250000
+Bentley,Continental GT,2015,Black,Coupe,Petrol,Automatic,Awd,567,2,4,150000
+Bentley,Continental GT,2023,Blue,Coupe,Hybrid,Automatic,Awd,626,2,4,30000
+Bentley,Flying Spur,2020,White,Sedan,Petrol,Automatic,Awd,542,4,5,80000
+Bentley,Flying Spur,2023,Silver,Sedan,Hybrid,Automatic,Awd,536,4,5,20000
+Bentley,Bentayga,2016,Black,Suv,Petrol,Automatic,Awd,542,5,5,100000
+Bentley,Bentayga,2023,Green,Suv,Hybrid,Automatic,Awd,449,5,5,30000
+Bentley,Mulsanne,2015,Black,Sedan,Petrol,Automatic,Rwd,530,4,5,150000
+Rolls-Royce,Phantom,2018,Black,Sedan,Petrol,Automatic,Rwd,563,4,5,80000
+Rolls-Royce,Phantom,2023,White,Sedan,Petrol,Automatic,Rwd,563,4,5,30000
+Rolls-Royce,Ghost,2020,Silver,Sedan,Petrol,Automatic,Awd,563,4,5,60000
+Rolls-Royce,Ghost,2023,Blue,Sedan,Petrol,Automatic,Awd,563,4,5,20000
+Rolls-Royce,Cullinan,2019,Black,Suv,Petrol,Automatic,Awd,563,5,5,50000
+Rolls-Royce,Cullinan,2023,White,Suv,Petrol,Automatic,Awd,563,5,5,20000
+Rolls-Royce,Wraith,2015,Blue,Coupe,Petrol,Automatic,Rwd,624,2,4,100000
+Rolls-Royce,Dawn,2016,Red,Convertible,Petrol,Automatic,Rwd,563,2,4,80000
+Mini,Cooper,2015,Red,Hatchback,Petrol,Manual,Fwd,134,3,4,250000
+Mini,Cooper,2023,Blue,Hatchback,Electric,Automatic,Fwd,184,3,4,30000
+Mini,Cooper S,2018,Yellow,Hatchback,Petrol,Manual,Fwd,189,3,4,120000
+Mini,Cooper SE,2020,Green,Hatchback,Electric,Automatic,Fwd,184,3,4,80000
+Mini,Countryman,2018,White,Suv,Petrol,Automatic,Fwd,134,5,5,100000
+Mini,Countryman,2023,Black,Suv,Hybrid,Automatic,Awd,220,5,5,30000
+Mini,Clubman,2018,Blue,Wagon,Petrol,Automatic,Fwd,134,5,5,100000
+Mini,Clubman,2023,Silver,Wagon,Petrol,Automatic,Awd,301,5,5,30000
+Mini,Cabrio,2018,Red,Convertible,Petrol,Manual,Fwd,189,2,4,100000
+Aston Martin,DB11,2016,Black,Coupe,Petrol,Automatic,Rwd,503,2,4,80000
+Aston Martin,DB11,2023,Blue,Convertible,Petrol,Automatic,Rwd,630,2,4,20000
+Aston Martin,Vantage,2018,Red,Coupe,Petrol,Automatic,Rwd,503,2,2,60000
+Aston Martin,Vantage,2023,Yellow,Convertible,Petrol,Automatic,Rwd,656,2,2,20000
+Aston Martin,DBX,2020,White,Suv,Petrol,Automatic,Awd,542,5,5,50000
+Aston Martin,DBX,2023,Black,Suv,Petrol,Automatic,Awd,707,5,5,20000
+Aston Martin,DB12,2024,Silver,Coupe,Petrol,Automatic,Rwd,671,2,4,10000
+Aston Martin,DBS,2019,Blue,Convertible,Petrol,Automatic,Rwd,715,2,4,40000
+Aston Martin,Rapide,2015,Black,Sedan,Petrol,Automatic,Rwd,470,4,5,150000
+Aston Martin,Vanquish,2015,Red,Coupe,Petrol,Automatic,Rwd,565,2,4,100000
+McLaren,720S,2017,Orange,Coupe,Petrol,DualClutch,Rwd,710,2,2,50000
+McLaren,720S,2022,Yellow,Convertible,Petrol,DualClutch,Rwd,710,2,2,20000
+McLaren,Artura,2022,Blue,Coupe,Hybrid,DualClutch,Rwd,671,2,2,20000
+McLaren,GT,2020,Black,Coupe,Petrol,DualClutch,Rwd,612,2,2,40000
+McLaren,750S,2023,Red,Coupe,Petrol,DualClutch,Rwd,740,2,2,10000
+McLaren,570S,2016,Silver,Coupe,Petrol,DualClutch,Rwd,562,2,2,60000
+McLaren,600LT,2019,Orange,Coupe,Petrol,DualClutch,Rwd,592,2,2,30000
+McLaren,P1,2015,Yellow,Coupe,Hybrid,DualClutch,Rwd,903,2,2,20000
+McLaren,Senna,2018,Black,Coupe,Petrol,DualClutch,Rwd,789,2,2,15000
+Peugeot,208,2012,Red,Hatchback,Petrol,Manual,Fwd,120,5,5,250000
+Peugeot,208,2020,Blue,Hatchback,Electric,Automatic,Fwd,136,5,5,80000
+Peugeot,3008,2016,White,Suv,Petrol,Automatic,Fwd,180,5,5,150000
+Peugeot,3008,2023,Black,Suv,Hybrid,Automatic,Fwd,225,5,5,30000
+Peugeot,5008,2018,Silver,Suv,Petrol,Automatic,Fwd,180,5,7,100000
+Peugeot,5008,2023,Blue,Suv,Hybrid,Automatic,Fwd,225,5,7,30000
+Peugeot,508,2018,Black,Sedan,Petrol,Automatic,Fwd,225,4,5,100000
+Peugeot,508,2023,White,Sedan,Hybrid,Automatic,Fwd,225,4,5,30000
+Peugeot,2008,2020,Red,Crossover,Petrol,Automatic,Fwd,130,5,5,80000
+Peugeot,2008,2023,Blue,Crossover,Electric,Automatic,Fwd,156,5,5,30000
+Peugeot,308,2015,White,Hatchback,Petrol,Manual,Fwd,120,5,5,250000
+Peugeot,308,2022,Black,Hatchback,Hybrid,Automatic,Fwd,180,5,5,60000
+Peugeot,408,2023,Silver,Sedan,Petrol,Automatic,Fwd,180,4,5,20000
+Renault,Clio,2012,Red,Hatchback,Petrol,Manual,Fwd,90,5,5,250000
+Renault,Clio,2020,Blue,Hatchback,Hybrid,Automatic,Fwd,145,5,5,80000
+Renault,Duster,2015,White,Suv,Petrol,Manual,Fwd,115,5,5,250000
+Renault,Duster,2022,Black,Suv,Diesel,Manual,FourWd,115,5,5,80000
+Renault,Duster,2023,Silver,Suv,Hybrid,Automatic,Fwd,140,5,5,30000
+Renault,Megane,2015,Blue,Hatchback,Petrol,Manual,Fwd,115,5,5,250000
+Renault,Megane,2023,White,Hatchback,Electric,Automatic,Fwd,220,5,5,30000
+Renault,Captur,2018,Red,Crossover,Petrol,Manual,Fwd,120,5,5,100000
+Renault,Captur,2023,Blue,Crossover,Hybrid,Automatic,Fwd,160,5,5,30000
+Renault,Kadjar,2015,Silver,Suv,Petrol,Manual,Fwd,130,5,5,200000
+Renault,Koleos,2018,Black,Suv,Diesel,Automatic,Awd,180,5,5,100000
+Renault,Zoe,2015,White,Hatchback,Electric,Automatic,Fwd,92,5,5,200000
+Renault,Zoe,2022,Blue,Hatchback,Electric,Automatic,Fwd,134,5,5,60000
+Renault,Twingo,2015,Red,Hatchback,Petrol,Manual,Rwd,71,3,4,250000
+Renault,Logan,2015,White,Sedan,Petrol,Manual,Fwd,82,4,5,250000
+Renault,Sandero,2015,Blue,Hatchback,Petrol,Manual,Fwd,90,5,5,250000
+Renault,Symbol,2015,Silver,Sedan,Petrol,Manual,Fwd,75,4,5,250000
+Renault,Laguna,2010,Black,Wagon,Petrol,Manual,Fwd,150,5,5,250000
+Renault,Scenic,2015,White,Minivan,Petrol,Manual,Fwd,115,5,7,200000
+Citroën,C3,2012,Red,Hatchback,Petrol,Manual,Fwd,82,5,5,250000
+Citroën,C3,2020,Blue,Hatchback,Electric,Automatic,Fwd,136,5,5,80000
+Citroën,C4,2015,White,Hatchback,Petrol,Manual,Fwd,110,5,5,250000
+Citroën,C4,2023,Black,Hatchback,Electric,Automatic,Fwd,136,5,5,30000
+Citroën,C5 Aircross,2018,Silver,Suv,Petrol,Automatic,Fwd,180,5,5,100000
+Citroën,C5 Aircross,2023,Blue,Suv,Hybrid,Automatic,Fwd,225,5,5,30000
+Citroën,Berlingo,2015,White,Van,Petrol,Manual,Fwd,110,5,5,250000
+Citroën,Berlingo,2023,Blue,Van,Electric,Automatic,Fwd,136,5,5,30000
+Citroën,C1,2015,Red,Hatchback,Petrol,Manual,Fwd,68,3,4,250000
+Citroën,C5,2010,Black,Sedan,Petrol,Manual,Fwd,150,4,5,250000
+Citroën,C6,2008,Silver,Sedan,Petrol,Automatic,Fwd,215,4,5,200000
+DS,DS 3,2020,White,Hatchback,Petrol,Manual,Fwd,130,5,5,80000
+DS,DS 3,2023,Blue,Hatchback,Electric,Automatic,Fwd,156,5,5,30000
+DS,DS 4,2022,Black,Crossover,Petrol,Automatic,Fwd,180,5,5,50000
+DS,DS 7,2018,Silver,Suv,Petrol,Automatic,Fwd,225,5,5,100000
+DS,DS 7,2023,Blue,Suv,Hybrid,Automatic,Awd,300,5,5,30000
+DS,DS 9,2021,Black,Sedan,Petrol,Automatic,Fwd,225,4,5,60000
+Bugatti,Chiron,2016,Blue,Coupe,Petrol,DualClutch,Awd,1479,2,2,30000
+Bugatti,Chiron,2022,Black,Coupe,Petrol,DualClutch,Awd,1578,2,2,10000
+Bugatti,Veyron,2008,Red,Coupe,Petrol,DualClutch,Awd,1001,2,2,40000
+Bugatti,Veyron,2015,White,Convertible,Petrol,DualClutch,Awd,1184,2,2,20000
+Bugatti,Divo,2020,Yellow,Coupe,Petrol,DualClutch,Awd,1479,2,2,10000
+Bugatti,Bolide,2023,Black,Coupe,Petrol,DualClutch,Awd,1825,2,2,5000
+Bugatti,Centodieci,2022,White,Coupe,Petrol,DualClutch,Awd,1578,2,2,5000
+Bugatti,Mistral,2024,Blue,Convertible,Petrol,DualClutch,Awd,1578,2,2,2000
+Volvo,XC90,2015,Black,Suv,Petrol,Automatic,Awd,320,5,7,200000
+Volvo,XC90,2023,White,Suv,Hybrid,Automatic,Awd,455,5,7,30000
+Volvo,XC60,2018,Silver,Suv,Diesel,Automatic,Awd,235,5,5,120000
+Volvo,XC60,2023,Blue,Suv,Hybrid,Automatic,Awd,400,5,5,30000
+Volvo,S90,2016,White,Sedan,Petrol,Automatic,Fwd,254,4,5,150000
+Volvo,S90,2023,Black,Sedan,Hybrid,Automatic,Awd,455,4,5,30000
+Volvo,V60,2018,Blue,Wagon,Diesel,Automatic,Fwd,235,5,5,100000
+Volvo,V60,2023,White,Wagon,Hybrid,Automatic,Awd,400,5,5,30000
+Volvo,S60,2015,Black,Sedan,Petrol,Automatic,Fwd,240,4,5,200000
+Volvo,XC40,2018,Red,Suv,Petrol,Automatic,Awd,248,5,5,100000
+Volvo,XC40,2023,Blue,Suv,Electric,Automatic,Awd,402,5,5,30000
+Volvo,V90,2018,White,Wagon,Diesel,Automatic,Awd,235,5,5,100000
+Volvo,V40,2015,Silver,Hatchback,Petrol,Manual,Fwd,150,5,5,200000
+Volvo,S40,2010,Black,Sedan,Petrol,Manual,Fwd,150,4,5,250000
+Volvo,C30,2010,Red,Hatchback,Petrol,Manual,Fwd,150,3,4,250000
+Volvo,C70,2012,Blue,Convertible,Petrol,Automatic,Fwd,230,2,4,200000
+Volvo,850,1995,White,Wagon,Petrol,Manual,Fwd,170,5,5,300000
+Volvo,740,1990,Black,Sedan,Petrol,Manual,Rwd,114,4,5,350000
+Volvo,240,1988,Blue,Wagon,Petrol,Manual,Rwd,114,5,5,400000
+Polestar,Polestar 2,2020,Blue,Sedan,Electric,Automatic,Fwd,408,4,5,80000
+Polestar,Polestar 2,2023,White,Sedan,Electric,Automatic,Awd,476,4,5,30000
+Polestar,Polestar 3,2024,Black,Suv,Electric,Automatic,Awd,483,5,5,10000
+Polestar,Polestar 4,2024,Gray,Crossover,Electric,Automatic,Awd,544,5,5,5000
+Polestar,Polestar 1,2018,Yellow,Coupe,Hybrid,Automatic,Awd,619,2,4,40000
+Koenigsegg,Jesko,2022,Yellow,Coupe,Petrol,DualClutch,Rwd,1600,2,2,10000
+Koenigsegg,Regera,2016,Blue,Coupe,Hybrid,Automatic,Rwd,1500,2,2,20000
+Koenigsegg,Gemera,2023,Black,Coupe,Hybrid,Automatic,Awd,2300,2,4,5000
+Koenigsegg,Agera,2011,Red,Coupe,Petrol,Manual,Rwd,940,2,2,30000
+Koenigsegg,One:1,2015,Orange,Coupe,Petrol,DualClutch,Rwd,1341,2,2,10000
+BYD,Atto 3,2022,White,Suv,Electric,Automatic,Fwd,204,5,5,50000
+BYD,Atto 3,2023,Blue,Suv,Electric,Automatic,Fwd,204,5,5,20000
+BYD,Han,2020,Black,Sedan,Electric,Automatic,Awd,517,4,5,50000
+BYD,Han,2023,White,Sedan,Hybrid,Automatic,Fwd,222,4,5,30000
+BYD,Tang,2022,Silver,Suv,Electric,Automatic,Awd,517,5,7,50000
+BYD,Seal,2023,Blue,Sedan,Electric,Automatic,Rwd,530,4,5,20000
+BYD,Dolphin,2022,White,Hatchback,Electric,Automatic,Fwd,204,5,5,40000
+BYD,Qin,2020,Black,Sedan,Hybrid,Automatic,Fwd,197,4,5,60000
+BYD,Song,2023,White,Suv,Hybrid,Automatic,Fwd,197,5,5,30000
+BYD,Yuan,2022,Red,Suv,Electric,Automatic,Fwd,177,5,5,40000
+BYD,e6,2015,White,Wagon,Electric,Automatic,Fwd,161,5,5,150000
+Geely,Coolray,2020,White,Crossover,Petrol,DualClutch,Fwd,177,5,5,80000
+Geely,Coolray,2023,Blue,Crossover,Petrol,DualClutch,Fwd,177,5,5,30000
+Geely,Tugella,2020,Black,Crossover,Petrol,Automatic,Awd,238,5,5,80000
+Geely,Tugella,2023,White,Crossover,Petrol,Automatic,Awd,238,5,5,30000
+Geely,Monjaro,2022,Silver,Suv,Petrol,Automatic,Awd,238,5,5,50000
+Geely,Monjaro,2023,Blue,Suv,Petrol,Automatic,Awd,238,5,5,20000
+Geely,Emgrand,2020,White,Sedan,Petrol,Cvt,Fwd,114,4,5,80000
+Geely,Emgrand,2023,Black,Sedan,Petrol,Cvt,Fwd,114,4,5,30000
+Geely,Atlas,2018,Red,Suv,Petrol,Automatic,Fwd,184,5,5,100000
+Geely,Okavango,2022,White,Minivan,Petrol,Automatic,Fwd,190,5,7,50000
+Geely,Preface,2021,Black,Sedan,Petrol,Automatic,Fwd,190,4,5,60000
+Geely,X70,2018,Silver,Suv,Petrol,Automatic,Fwd,184,5,5,100000
+NIO,ET7,2022,Blue,Sedan,Electric,Automatic,Awd,653,4,5,50000
+NIO,ET7,2023,White,Sedan,Electric,Automatic,Awd,653,4,5,20000
+NIO,ES6,2020,Black,Suv,Electric,Automatic,Awd,544,5,5,60000
+NIO,ES6,2023,Red,Suv,Electric,Automatic,Awd,616,5,5,30000
+NIO,EC6,2021,Silver,Crossover,Electric,Automatic,Awd,544,5,5,50000
+NIO,ET5,2023,Blue,Sedan,Electric,Automatic,Awd,493,4,5,20000
+NIO,ES8,2018,White,Suv,Electric,Automatic,Awd,544,5,6,80000
+NIO,EP9,2017,Orange,Coupe,Electric,Automatic,Awd,1341,2,2,10000
+Xpeng,P7,2020,White,Sedan,Electric,Automatic,Rwd,469,4,5,50000
+Xpeng,P7,2023,Blue,Sedan,Electric,Automatic,Awd,473,4,5,20000
+Xpeng,G9,2022,Black,Suv,Electric,Automatic,Awd,551,5,5,30000
+Xpeng,G6,2023,Silver,Crossover,Electric,Automatic,Awd,480,5,5,10000
+Xpeng,P5,2021,Red,Sedan,Electric,Automatic,Fwd,211,4,5,40000
+Li Auto,L9,2022,Black,Suv,Hybrid,Automatic,Awd,449,5,6,30000
+Li Auto,L9,2023,White,Suv,Hybrid,Automatic,Awd,449,5,6,10000
+Li Auto,L8,2022,Blue,Suv,Hybrid,Automatic,Awd,449,5,6,30000
+Li Auto,L8,2023,Silver,Suv,Hybrid,Automatic,Awd,449,5,6,10000
+Li Auto,L7,2023,Red,Suv,Hybrid,Automatic,Awd,449,5,5,10000
+Li Auto,Mega,2024,White,Minivan,Electric,Automatic,Awd,536,5,7,5000
+Li Auto,L6,2024,Black,Suv,Hybrid,Automatic,Awd,449,5,5,5000
+Great Wall,Haval H6,2020,White,Suv,Petrol,DualClutch,Fwd,169,5,5,80000
+Great Wall,Haval H6,2023,Black,Suv,Hybrid,Automatic,Awd,245,5,5,30000
+Great Wall,Haval Jolion,2021,Blue,Crossover,Petrol,DualClutch,Fwd,143,5,5,60000
+Great Wall,Haval Jolion,2023,Red,Crossover,Hybrid,Automatic,Fwd,190,5,5,30000
+Great Wall,Tank 300,2021,Black,Suv,Petrol,Automatic,FourWd,227,5,5,50000
+Great Wall,Tank 300,2023,Green,Suv,Petrol,Automatic,FourWd,227,5,5,20000
+Great Wall,Poer,2020,White,Pickup,Diesel,Manual,FourWd,163,4,5,80000
+Great Wall,Poer,2023,Black,Pickup,Diesel,Automatic,FourWd,163,4,5,30000
+Great Wall,Wey,2022,Silver,Suv,Hybrid,Automatic,Awd,340,5,7,40000
+Great Wall,Ora,2022,Red,Hatchback,Electric,Automatic,Fwd,171,5,5,40000
+Chery,Tiggo 7 Pro,2020,White,Suv,Petrol,Cvt,Fwd,147,5,5,80000
+Chery,Tiggo 7 Pro,2023,Blue,Suv,Petrol,Cvt,Fwd,147,5,5,30000
+Chery,Tiggo 8 Pro,2019,Black,Suv,Petrol,DualClutch,Fwd,186,5,7,80000
+Chery,Tiggo 8 Pro,2023,Silver,Suv,Petrol,DualClutch,Awd,197,5,7,30000
+Chery,Arrizo 8,2022,White,Sedan,Petrol,Cvt,Fwd,197,4,5,50000
+Chery,Omoda 5,2022,Red,Crossover,Petrol,Cvt,Fwd,147,5,5,50000
+Chery,Omoda 5,2023,Blue,Crossover,Petrol,Cvt,Fwd,147,5,5,20000
+Chery,Tiggo 4,2018,White,Crossover,Petrol,Cvt,Fwd,116,5,5,100000
+Chery,Exeed TXL,2021,Black,Suv,Petrol,Automatic,Awd,197,5,5,60000
+MG,ZS,2018,White,Crossover,Petrol,Manual,Fwd,106,5,5,100000
+MG,ZS,2023,Blue,Crossover,Electric,Automatic,Fwd,177,5,5,30000
+MG,HS,2019,Red,Suv,Petrol,DualClutch,Fwd,162,5,5,80000
+MG,HS,2023,Black,Suv,Hybrid,Automatic,Awd,284,5,5,30000
+MG,MG4,2022,White,Hatchback,Electric,Automatic,Rwd,204,5,5,40000
+MG,MG4,2023,Blue,Hatchback,Electric,Automatic,Rwd,204,5,5,20000
+MG,MG5,2020,Black,Sedan,Petrol,Cvt,Fwd,120,4,5,80000
+MG,MG6,2018,Red,Hatchback,Petrol,Manual,Fwd,169,5,5,100000
+MG,MG7,2023,Blue,Sedan,Petrol,Automatic,Fwd,261,4,5,20000
+MG,RX5,2018,Silver,Suv,Petrol,DualClutch,Fwd,169,5,5,100000
+SEAT,Ibiza,2015,Red,Hatchback,Petrol,Manual,Fwd,110,5,5,250000
+SEAT,Ibiza,2022,Blue,Hatchback,Petrol,Manual,Fwd,110,5,5,60000
+SEAT,Leon,2015,White,Hatchback,Petrol,Manual,Fwd,122,5,5,250000
+SEAT,Leon,2023,Black,Hatchback,Hybrid,Automatic,Fwd,204,5,5,30000
+SEAT,Ateca,2018,Silver,Suv,Petrol,DualClutch,Fwd,150,5,5,100000
+SEAT,Ateca,2023,Blue,Suv,Petrol,DualClutch,Awd,190,5,5,30000
+SEAT,Arona,2018,Red,Crossover,Petrol,Manual,Fwd,110,5,5,100000
+SEAT,Alhambra,2015,White,Minivan,Diesel,Manual,Fwd,150,5,7,200000
+SEAT,Toledo,2015,Black,Sedan,Petrol,Manual,Fwd,110,4,5,250000
+SEAT,Altea,2010,Silver,Minivan,Petrol,Manual,Fwd,102,5,5,250000
+Cupra,Formentor,2020,Gray,Crossover,Petrol,DualClutch,Awd,310,5,5,80000
+Cupra,Formentor,2023,Blue,Crossover,Hybrid,Automatic,Awd,245,5,5,30000
+Cupra,Leon,2020,White,Hatchback,Petrol,Manual,Fwd,145,5,5,80000
+Cupra,Leon,2023,Red,Hatchback,Hybrid,Automatic,Fwd,204,5,5,30000
+Cupra,Ateca,2020,Black,Suv,Petrol,DualClutch,Awd,300,5,5,80000
+Cupra,Born,2022,Blue,Hatchback,Electric,Automatic,Rwd,231,5,5,40000
+Škoda,Octavia,2015,White,Sedan,Petrol,Manual,Fwd,110,4,5,250000
+Škoda,Octavia,2023,Black,Sedan,Hybrid,Automatic,Fwd,204,4,5,30000
+Škoda,Superb,2015,Silver,Sedan,Petrol,DualClutch,Fwd,190,4,5,250000
+Škoda,Superb,2023,Blue,Sedan,Hybrid,Automatic,Fwd,204,4,5,30000
+Škoda,Kodiaq,2018,Black,Suv,Petrol,DualClutch,Fwd,150,5,7,100000
+Škoda,Kodiaq,2023,White,Suv,Petrol,DualClutch,Awd,190,5,7,30000
+Škoda,Karoq,2018,Red,Suv,Petrol,DualClutch,Fwd,150,5,5,100000
+Škoda,Karoq,2023,Blue,Suv,Petrol,DualClutch,Awd,190,5,5,30000
+Škoda,Fabia,2015,White,Hatchback,Petrol,Manual,Fwd,90,5,5,250000
+Škoda,Fabia,2023,Silver,Hatchback,Petrol,Manual,Fwd,110,5,5,30000
+Škoda,Rapid,2015,Black,Sedan,Petrol,Manual,Fwd,105,4,5,250000
+Škoda,Scala,2019,Blue,Hatchback,Petrol,Manual,Fwd,115,5,5,80000
+Škoda,Kamiq,2019,Red,Crossover,Petrol,Manual,Fwd,110,5,5,80000
+Škoda,Enyaq,2021,White,Suv,Electric,Automatic,Awd,265,5,5,50000
+Škoda,Enyaq,2023,Black,Suv,Electric,Automatic,Awd,299,5,5,30000
+Dacia,Sandero,2015,White,Hatchback,Petrol,Manual,Fwd,90,5,5,250000
+Dacia,Sandero,2023,Blue,Hatchback,Hybrid,Automatic,Fwd,140,5,5,30000
+Dacia,Duster,2015,Black,Suv,Petrol,Manual,Fwd,115,5,5,250000
+Dacia,Duster,2023,Silver,Suv,Hybrid,Automatic,Fwd,140,5,5,30000
+Dacia,Jogger,2022,White,Wagon,Petrol,Manual,Fwd,110,5,7,50000
+Dacia,Jogger,2023,Blue,Wagon,Hybrid,Automatic,Fwd,140,5,7,30000
+Dacia,Spring,2021,Red,Crossover,Electric,Automatic,Fwd,45,5,4,40000
+Dacia,Spring,2023,White,Crossover,Electric,Automatic,Fwd,65,5,4,20000
+Dacia,Logan,2015,Black,Sedan,Petrol,Manual,Fwd,90,4,5,250000
+Dacia,Dokker,2015,Silver,Van,Petrol,Manual,Fwd,102,5,5,200000
+Tata,Nexon,2018,White,Suv,Petrol,Manual,Fwd,110,5,5,100000
+Tata,Nexon,2023,Blue,Suv,Electric,Automatic,Fwd,129,5,5,30000
+Tata,Harrier,2019,Black,Suv,Diesel,Manual,Fwd,170,5,5,80000
+Tata,Harrier,2023,White,Suv,Diesel,Automatic,Fwd,170,5,5,30000
+Tata,Safari,2021,Silver,Suv,Diesel,Manual,Fwd,170,5,7,60000
+Tata,Safari,2023,Blue,Suv,Diesel,Automatic,Fwd,170,5,7,30000
+Tata,Punch,2021,Red,Crossover,Petrol,Manual,Fwd,86,5,5,50000
+Tata,Punch,2023,White,Crossover,Petrol,Manual,Fwd,88,5,5,20000
+Tata,Tiago,2018,Blue,Hatchback,Petrol,Manual,Fwd,85,5,5,100000
+Tata,Tigor,2018,Black,Sedan,Petrol,Manual,Fwd,85,4,5,100000
+Tata,Altroz,2020,White,Hatchback,Petrol,Manual,Fwd,86,5,5,80000
+Tata,Nano,2010,Red,Hatchback,Petrol,Manual,Rwd,38,4,4,200000
+Mahindra,Scorpio,2015,Black,Suv,Diesel,Manual,FourWd,140,5,7,250000
+Mahindra,Scorpio,2023,White,Suv,Diesel,Manual,FourWd,175,5,7,50000
+Mahindra,Thar,2020,Green,Suv,Diesel,Manual,FourWd,150,3,4,80000
+Mahindra,Thar,2023,Red,Suv,Diesel,Manual,FourWd,150,3,4,30000
+Mahindra,XUV700,2021,White,Suv,Diesel,Manual,Fwd,185,5,7,60000
+Mahindra,XUV700,2023,Black,Suv,Diesel,Automatic,Awd,185,5,7,30000
+Mahindra,Bolero,2015,Silver,Suv,Diesel,Manual,FourWd,75,5,7,300000
+Mahindra,Bolero,2023,White,Suv,Diesel,Manual,FourWd,100,5,7,150000
+Mahindra,XUV300,2019,Blue,Suv,Petrol,Manual,Fwd,115,5,5,80000
+Mahindra,XUV400,2023,Red,Suv,Electric,Automatic,Fwd,177,5,5,30000
+Proton,Saga,2015,White,Sedan,Petrol,Manual,Fwd,86,4,5,250000
+Proton,Saga,2023,Blue,Sedan,Petrol,Automatic,Fwd,95,4,5,60000
+Proton,X50,2020,Black,Crossover,Petrol,DualClutch,Fwd,177,5,5,80000
+Proton,X50,2023,Red,Crossover,Petrol,DualClutch,Fwd,177,5,5,30000
+Proton,X70,2019,White,Suv,Petrol,DualClutch,Fwd,184,5,5,80000
+Proton,X70,2023,Silver,Suv,Petrol,DualClutch,Fwd,184,5,5,30000
+Proton,X90,2023,Black,Suv,Hybrid,Automatic,Fwd,190,5,7,20000
+Proton,Persona,2016,Blue,Sedan,Petrol,Cvt,Fwd,113,4,5,150000
+Proton,Iriz,2015,Red,Hatchback,Petrol,Manual,Fwd,109,5,5,200000

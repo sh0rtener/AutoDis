@@ -1,6 +1,7 @@
 using AutoDis.Persistense;
 using AutoDis.Persistense.EntityFramework;
 using AutoDis.UseCases;
+using AutoDis.UseCases.Cars;
 using AutoDis.WebApi;
 using Microsoft.EntityFrameworkCore;
 
@@ -28,6 +29,8 @@ using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     context.Database.Migrate();
+    ICarSeedService carSeedService = new CarSeedService(context);
+    await carSeedService.LoadSeeds();
 }
 
 app.UseHttpsRedirection();
